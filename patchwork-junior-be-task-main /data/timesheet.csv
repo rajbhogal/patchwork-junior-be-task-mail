@@ -1,0 +1,10 @@
+date,shiftType,rate,department,worker
+04/01/2021,A,45,G&E,John
+04/01/2021,B,45,A&E,Jane
+05/01/2021,A,60,A&E,John
+06/01/2021,B,45,A&E,Jane
+06/01/2021,A,45,G&E,John
+07/01/2021,A,60,A&E,Jane
+08/01/2021,B,45,G&E,John
+09/01/2021,A,60,G&E,Jane
+10/01/2021,B,45,G&E,John
